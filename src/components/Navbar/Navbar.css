@@ -1,0 +1,28 @@
+.nav-bar{
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center; 
+    background-color: white;  
+}
+
+.nav-bar .nav-bar-ingredients{
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-bar .nav-bar-ingredients .logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-bar .nav-bar-ingredients .nav-right-side{
+    display: flex;
+    gap: 0 20px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin: 0;
+    padding: 0;
+}
