@@ -1,7 +1,7 @@
 import About from './Pages/About/About.jsx';
 import Contact from './Pages/Contact/Contact.jsx';
 import Home from './Pages/Home/Home.jsx';
-import './app.css'
+import 'app.css'
 import Navbar from './components/Navbar/Navbar.jsx'
 import {Footer }from './components/Footer/Footer.jsx'
 function App() {
